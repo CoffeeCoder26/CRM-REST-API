@@ -4,7 +4,7 @@
 
     1- add new customer
     2- update existing customer by id
-    3- delete  existing customer  by id
+    3- delete existing customer  by id
     4- get single customer by id
     5- get all customers
     
